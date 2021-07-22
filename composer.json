@@ -1,0 +1,15 @@
+{
+    "name": "hugod/le_bon_coin_coin",
+    "authors": [
+        {
+            "name": "HUGODELBEGUE",
+            "email": "82809699+HUGODELBEGUE@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
